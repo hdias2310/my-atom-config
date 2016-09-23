@@ -4,6 +4,26 @@ All notable changes to the project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
+[1.7.19] - 2016-08-28
+---------------------
+### Added
+- **New icons:** FontForge (`.pe`, `.sfd`)
+- **Support:** Emacs Lisp (`.elc`), GNU's readline configuration (`.inputrc`), PostScript (`.afm`, `.pfb`)
+
+### Changed
+- Updated icons in readme's preview image
+
+
+[1.7.18] - 2016-08-05
+---------------------
+### Added
+- **New icons:** CircleCI (`circle.yml`), Tern (`.tern-project`)
+- **Support:** Flow (`.js.flow`), Jinja (`.jinja2`), Mocha (`mocha.opts`), Manpages (`.pic`), mSQL (`.dsql`), NodeJS (`.nvmrc`), Pug (`.pug-lintrc`)
+
+### Changed
+- `.x` files now use Objective-C icon
+
+
 [1.7.17] - 2016-07-14
 ---------------------
 ### Added
@@ -828,7 +848,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 Initial release.
 
 
-[Unpublished]: https://github.com/DanBrooker/file-icons/compare/v1.7.17...HEAD
+[Unpublished]: https://github.com/DanBrooker/file-icons/compare/v1.7.19...HEAD
+[1.7.19]: https://github.com/DanBrooker/file-icons/releases/tag/v1.7.19
+[1.7.18]: https://github.com/DanBrooker/file-icons/releases/tag/v1.7.18
 [1.7.17]: https://github.com/DanBrooker/file-icons/releases/tag/v1.7.17
 [1.7.16]: https://github.com/DanBrooker/file-icons/releases/tag/v1.7.16
 [1.7.15]: https://github.com/DanBrooker/file-icons/releases/tag/v1.7.15
