@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-116815-5740-oy6z47\\package.tgz",
+        "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-11694-5832-1ey9jnv\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-116815-5740-oy6z47\\package.tgz",
-        "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-116815-5740-oy6z47\\package.tgz",
+        "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-11694-5832-1ey9jnv\\package.tgz",
+        "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-11694-5832-1ey9jnv\\package.tgz",
         "type": "local"
       },
-      "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-116815-5740-1vqsp05"
+      "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-11694-5832-oehski"
     ]
   ],
-  "_from": "..\\d-116815-5740-oy6z47\\package.tgz",
-  "_id": "file-icons@1.7.19",
+  "_from": "..\\d-11694-5832-1ey9jnv\\package.tgz",
+  "_id": "file-icons@1.7.20",
   "_inCache": true,
   "_installable": true,
   "_location": "/file-icons",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-116815-5740-oy6z47\\package.tgz",
+    "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-11694-5832-1ey9jnv\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-116815-5740-oy6z47\\package.tgz",
-    "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-116815-5740-oy6z47\\package.tgz",
+    "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-11694-5832-1ey9jnv\\package.tgz",
+    "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-11694-5832-1ey9jnv\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-116815-5740-oy6z47\\package.tgz",
-  "_shasum": "8e85abc4b5672f3c89b32fd887fb77288cd3273e",
+  "_resolved": "file:..\\d-11694-5832-1ey9jnv\\package.tgz",
+  "_shasum": "fbb4684001d373528cd2f4940ba8bfc93a69bdf8",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-116815-5740-oy6z47\\package.tgz",
-  "_where": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-116815-5740-1vqsp05",
+  "_spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-11694-5832-1ey9jnv\\package.tgz",
+  "_where": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-11694-5832-oehski",
   "bugs": {
     "url": "https://github.com/DanBrooker/file-icons/issues"
   },
@@ -57,5 +57,5 @@
     "type": "git",
     "url": "git+https://github.com/DanBrooker/file-icons.git"
   },
-  "version": "1.7.19"
+  "version": "1.7.20"
 }
