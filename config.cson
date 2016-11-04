@@ -16,12 +16,13 @@
       "*.xml"
     ]
     openEmptyEditorOnStart: false
+    telemetryConsent: "no"
     themes: [
       "one-dark-ui"
       "Visual-Studio-2015-Dark-Theme"
     ]
   editor:
-    fontSize: 12
+    fontSize: 13
     tabLength: 4
   "exception-reporting":
     userId: "79a6d9f7-5399-fdb5-98c5-c87277032c6f"
