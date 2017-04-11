@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117013-3596-1nx8bae\\package.tgz",
+        "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117310-4404-1fniqn6\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117013-3596-1nx8bae\\package.tgz",
-        "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117013-3596-1nx8bae\\package.tgz",
+        "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117310-4404-1fniqn6\\package.tgz",
+        "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117310-4404-1fniqn6\\package.tgz",
         "type": "local"
       },
-      "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-117013-3596-16fqk6m"
+      "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-117310-4404-w3hkxt"
     ]
   ],
-  "_from": "..\\d-117013-3596-1nx8bae\\package.tgz",
-  "_id": "Visual-Studio-2015-Dark-Theme@2.4.0",
+  "_from": "..\\d-117310-4404-1fniqn6\\package.tgz",
+  "_id": "Visual-Studio-2015-Dark-Theme@2.4.2",
   "_inCache": true,
   "_installable": true,
   "_location": "/Visual-Studio-2015-Dark-Theme",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117013-3596-1nx8bae\\package.tgz",
+    "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117310-4404-1fniqn6\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117013-3596-1nx8bae\\package.tgz",
-    "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117013-3596-1nx8bae\\package.tgz",
+    "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117310-4404-1fniqn6\\package.tgz",
+    "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117310-4404-1fniqn6\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-117013-3596-1nx8bae\\package.tgz",
-  "_shasum": "1afc1fd85ff649a178b9d0601b86779020b63e9e",
+  "_resolved": "file:..\\d-117310-4404-1fniqn6\\package.tgz",
+  "_shasum": "df0dae7d1d25b804b85cdf1ffe0b62fba964fb94",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117013-3596-1nx8bae\\package.tgz",
-  "_where": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-117013-3596-16fqk6m",
+  "_spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117310-4404-1fniqn6\\package.tgz",
+  "_where": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-117310-4404-w3hkxt",
   "bugs": {
     "url": "https://github.com/Nidre/VS2015-Dark-Atom/issues"
   },
@@ -60,5 +60,5 @@
     "url": "git+https://github.com/Nidre/VS2015-Dark-Atom.git"
   },
   "theme": "syntax",
-  "version": "2.4.0"
+  "version": "2.4.2"
 }

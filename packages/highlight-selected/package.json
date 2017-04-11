@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117025-6532-q40l5z\\package.tgz",
+        "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117230-5676-4idhj2\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117025-6532-q40l5z\\package.tgz",
-        "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117025-6532-q40l5z\\package.tgz",
+        "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117230-5676-4idhj2\\package.tgz",
+        "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117230-5676-4idhj2\\package.tgz",
         "type": "local"
       },
-      "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-117025-6532-1y74wrx"
+      "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-117230-5676-1r14nbn"
     ]
   ],
-  "_from": "..\\d-117025-6532-q40l5z\\package.tgz",
-  "_id": "highlight-selected@0.12.0",
+  "_from": "..\\d-117230-5676-4idhj2\\package.tgz",
+  "_id": "highlight-selected@0.13.1",
   "_inCache": true,
   "_installable": true,
   "_location": "/highlight-selected",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117025-6532-q40l5z\\package.tgz",
+    "raw": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117230-5676-4idhj2\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117025-6532-q40l5z\\package.tgz",
-    "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117025-6532-q40l5z\\package.tgz",
+    "rawSpec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117230-5676-4idhj2\\package.tgz",
+    "spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117230-5676-4idhj2\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-117025-6532-q40l5z\\package.tgz",
-  "_shasum": "b73bbec5b00d28cb5d54c4fbebbfd4aff41cd331",
+  "_resolved": "file:..\\d-117230-5676-4idhj2\\package.tgz",
+  "_shasum": "8b6ce153f680dfd60ab003835e666266c4420e5f",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117025-6532-q40l5z\\package.tgz",
-  "_where": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-117025-6532-1y74wrx",
+  "_spec": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\d-117230-5676-4idhj2\\package.tgz",
+  "_where": "C:\\Users\\henrique.sqa\\AppData\\Local\\Temp\\apm-install-dir-117230-5676-1r14nbn",
   "bugs": {
     "url": "https://github.com/richrace/highlight-selected/issues"
   },
@@ -47,7 +47,7 @@
     }
   },
   "dependencies": {
-    "underscore-plus": "1.x"
+    "grim": "^2.0.1"
   },
   "description": "Highlights the current word selected when double clicking",
   "devDependencies": {
@@ -70,7 +70,8 @@
     "highlightSelected": {
       "description": "Exposes Highlight Selected Events",
       "versions": {
-        "1.0.0": "provideHighlightSelectedV1"
+        "1.0.0": "provideHighlightSelectedV1Deprecated",
+        "2.0.0": "provideHighlightSelectedV2"
       }
     }
   },
@@ -80,5 +81,5 @@
     "type": "git",
     "url": "git+https://github.com/richrace/highlight-selected.git"
   },
-  "version": "0.12.0"
+  "version": "0.13.1"
 }

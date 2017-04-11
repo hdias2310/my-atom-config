@@ -33,3 +33,4 @@
 'atom-text-editor':
   'shift-alt-p': 'command-palette:toggle',
   'f12': 'symbols-view:go-to-declaration'
+  'alt-f2': 'bookmarks:toggle-bookmark'

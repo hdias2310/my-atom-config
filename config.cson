@@ -28,6 +28,8 @@
     userId: "79a6d9f7-5399-fdb5-98c5-c87277032c6f"
   minimap:
     plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
       "highlight-selected": true
       "highlight-selectedDecorationsZIndex": 0
   "tree-view":
