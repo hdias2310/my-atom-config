@@ -1,0 +1,160 @@
+﻿.fa-2 {
+  font-size: 2em;
+  cursor: pointer;
+}
+
+.data > input,
+.btn { font-size: 12px }
+
+td,th,table { border-color:#DDDDDD; }
+.table-detalhamento { margin-bottom: 10px; }
+.table-detalhamento > tbody > tr > td {
+    text-align: center;
+    vertical-align:middle;
+}
+.table-detalhamento tr td:nth-last-child(1),
+.table-detalhamento th:nth-last-child(1) { border-left: 2px solid #DDDDDD }
+.table-detalhamento button {
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
+.relatorioFormatoColunas th:not(.sort-header),
+.relatorioFormatoColunas th:nth-child(odd),
+.relatorioFormatoColunas td:nth-child(odd){ border-right: 1px solid #D4D4D4 !important; }
+
+.relatorioFormatoColunas th.sort-header:nth-last-child(2),
+.relatorioFormatoColunas td:nth-last-child(2){ border-right: none !important; }
+
+.sort-header { cursor: pointer; }
+
+.relatorioFormatoColunas * { font-size: 12px; }
+.relatorioFormatoColunas th,
+.relatorioFormatoColunas td  { border: 0px none !important; }
+
+.relatorioFormatoColunas th {background-color: #EAEAEA;}
+
+.dadosRelatorio {
+    border-bottom: 1px solid #DDDDDD;
+    padding-bottom: 20px;
+}
+
+.input-group-addon { cursor: pointer; }
+
+.btnDetalhar {
+    float: right;
+    margin: 3px;
+}
+
+#tituloRelatorio { padding-bottom: 10px; }
+
+.tempo-atraso { text-align: right }
+
+th { text-align: center; }
+
+.input-group { width: 145px; }
+
+.frmRelatorio .form-group { margin-left: 10px }
+.frmRelatorio .form-group > .form-group:nth-child(1) { margin-left: 0; }
+
+.frmRelatorio .btn { margin: 10px 5px; }
+
+#RelatorioEmColuna {
+    float: left;
+    margin: 15px 0 0 55px;
+    cursor: pointer !important;
+    font-weight: inherit;
+}
+
+.fa-arrow-up,
+.fa-arrow-down { margin-left: 5px; }
+
+small.subtitulo {
+    font-style: italic;
+    font-weight: 300;
+}
+
+.relatorioFormatoColunas td { text-align: right; }
+.relatorioFormatoColunas .email { text-align: inherit}
+
+.atraso-funcionario-ignorado { background-color: #FFE8E8; }
+
+.modal-lg { width: 1000px; }
+
+.relatorios tbody tr.linha-cinza { background-color: #F3F4F5 }
+
+#relatorio-ponto table tbody tr:nth-child(even) { background-color: #F3F4F5; }
+
+.row.relatorios { margin-bottom: 50px; }
+/*Relatorio hora-extra*/
+#relatorio-horaextra td,
+#relatorio-horaextra th {
+    border: none;
+    text-align: center;
+}
+
+#relatorio-horaextra thead { background-color: #EAEAEA }
+
+#relatorio-horaextra th:nth-child(1),
+#relatorio-horaextra th:nth-child(4),
+#relatorio-horaextra td:nth-child(4),
+#relatorio-horaextra td[rowspan] {
+    text-align: left;
+    vertical-align: middle;
+}
+
+.linha-com-borda { border-top: 1px solid #DDDDDD; }
+
+/*Produtividade*/
+#relatorio-produtividade thead { background-color: #EAEAEA }
+#relatorio-produtividade th[colspan] { border-left: 1px solid #DDDDDD; }
+#relatorio-produtividade td,
+#relatorio-produtividade th {
+    vertical-align: middle;
+    text-align: center;
+    border: none;
+}
+#relatorio-produtividade table { font-size: 13px; }
+#relatorio-produtividade table .btn { width: 70px; }
+#relatorio-produtividade table .produtividade-acoes { text-align: left; }
+
+#relatorio-produtividade td:nth-child(3),
+#relatorio-produtividade td:nth-child(9),
+#relatorio-produtividade td:nth-child(12),
+#relatorio-produtividade th:nth-child(3),
+#relatorio-produtividade th:nth-child(9),
+#relatorio-produtividade th:nth-child(12){ border-left: 1px solid #DDDDDD !important; }
+
+#relatorio-produtividade tr td:nth-child(1),
+#relatorio-produtividade tr th:nth-child(1) {
+  text-align: left;
+  padding-left: 10px;
+}
+#relatorio-produtividade tfoot,
+#relatorio-ligacoes tfoot { background-color: #F0F0F0; }
+#relatorio-produtividade thead th,
+#relatorio-produtividade tfoot td { font-weight: 600; }
+
+.produtividade-cancelar-retornos { margin-left: 5px; }
+
+.btn-renata {
+    background-color: #1c5272;
+    border-color: #1c5272;
+    color: white;
+}
+
+/*Ponto*/
+#relatorio-ponto thead { background-color: #EAEAEA }
+
+/*Ligações*/
+#relatorio-ligacoes thead { background-color: #EAEAEA }
+#relatorio-ligacoes table tr td[rowspan]:first-child { vertical-align: middle; }
+#relatorio-ligacoes tfoot { text-align: right; }
+
+.text-left { text-align: left !important; }
+.text-right { text-align: right !important; }
+
+@media screen and (min-width: 1418px) {
+    .frmRelatorio .btn { margin: 0px 5px }
+    #RelatorioEmColuna { margin-top: 10px }
+}
